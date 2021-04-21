@@ -1,0 +1,5 @@
+channels:
+- currentCSV: tf-operator.v1.1.0
+  name: latest
+defaultChannel: latest
+packageName: tf-operator
