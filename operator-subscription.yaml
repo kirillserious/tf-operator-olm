@@ -7,5 +7,5 @@ spec:
   channel: latest
   name: tf-operator
   startingCSV: tf-operator.v1.1.0
-  source: tf-operator-catalog
+  source: my-operators
   sourceNamespace: olm
